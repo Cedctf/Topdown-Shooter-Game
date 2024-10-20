@@ -1,0 +1,3 @@
+mode: easy
+highestScore: 143
+username: admin

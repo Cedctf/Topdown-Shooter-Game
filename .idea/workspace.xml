@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="125cedd6-f2db-4e09-ba12-c6a312a9ddcb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/highscore.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collision/CollisionChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Event/KeyHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Event/MouseHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GameObject/GameObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main/GameApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main/ScoreManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Map/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Map/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Map/Tile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Map/TileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Menu/GameMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Menu/MainMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Menu/PlaySubpanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Menu/ShooterGameButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Menu/Subpanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Player/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Player/PlayerSprite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sound/Sound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UserInfo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UserInfo/UserUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Weapons/Bullets/Bullets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Weapons/Pistol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Weapons/Rifle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Weapons/Shotgun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Weapons/Sniper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Weapons/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zombie/AStarPathFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zombie/Devil/Devil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zombie/Devil/DevilSprite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zombie/Devil/DevillBullets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zombie/Zombie/Zombie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zombie/Zombie/ZombieSprite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zombie/ZombieDog/ZombieDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zombie/ZombieDog/ZombieDogSprite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Player/player.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sound/Button.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sound/MusicTheme/DefeatTheme.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sound/MusicTheme/IngameTheme1.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sound/MusicTheme/IngameTheme2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sound/MusicTheme/IngameTheme3.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sound/MusicTheme/MainMenuTheme.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sound/MusicTheme/VictoryTheme.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sound/Player/EatenSound1.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sound/Player/EatenSound2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sound/Player/HurtedSound1.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sound/Player/HurtedSound2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sound/Player/WalkingSound.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sound/Weapon/PistolReloaded.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sound/Weapon/PistolReloading.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sound/Weapon/PistolShoot.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sound/Weapon/RifleReloaded.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sound/Weapon/RifleReloading.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sound/Weapon/RifleShoot.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sound/Weapon/ShotgunReloadPump.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sound/Weapon/ShotgunReloadShell.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sound/Weapon/ShotgunShoot.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sound/Weapon/SniperReload.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sound/Weapon/SniperReloaded.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sound/Weapon/SniperReloading.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sound/Weapon/SniperShoot.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sound/Zombie/DevilDeath.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sound/Zombie/DevilHurt.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sound/Zombie/FireballSound.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sound/Zombie/ZombieDeath.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Sound/Zombie/ZombieDogDeath.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Weapon/bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Weapon/crosshair.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Weapon/flamethrower.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Weapon/pistol.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Weapon/rifle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Weapon/shotgun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Weapon/sniper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Zombie/devil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Zombie/devilbullets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Zombie/zombie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Zombie/zombiedog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/BottomLeftWithSign.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/BottomRightWithSign.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarLeft/car1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarLeft/car10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarLeft/car11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarLeft/car12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarLeft/car13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarLeft/car14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarLeft/car15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarLeft/car16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarLeft/car2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarLeft/car3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarLeft/car4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarLeft/car5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarLeft/car6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarLeft/car7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarLeft/car8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarLeft/car9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarRight/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarRight/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarRight/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarRight/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarRight/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarRight/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarRight/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarRight/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarRight/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarRight/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarRight/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarRight/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarRight/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarRight/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarRight/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/CityCar/CarRight/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/LeftWithSign.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/MainTile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/ROOM/LeftRoom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/ROOM/RightRoom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/ROOM/room-floor-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/ROOM/room-wall-corner-top-left-0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/ROOM/room-wall-corner-top-right-0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/ROOM/room-wall-middle-0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/ROOM/room-wall-middle-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/RightWithSign.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/SideBarrel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/TopRightWithSign.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/fence-left-collision - Copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/fence-left-collision.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/fence-middle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/fence-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/map1Layer2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/map1source.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/road-corner-bottom-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/road-corner-bottom-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/road-corner-top-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/road-pedestrian-horizontal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/road-pedestrian-vertical.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/road-side-Left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/road-side-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/road.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/roadBottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/roadLeftCorner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/roadTop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/map1/topLeftWithSign.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Cedctf/Topdown-Shooter-Game.git",
+    "accountId": "b4f46e57-14c8-4e86-b4c1-20dcb559b0da"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/Main/GameApplication.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2jWUoNpWOghDVcqK9cIMP9uNKGf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Taylors/Sem 3/Advanced Programming/Topdown Shooter Game",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.Main" />
+      <module name="Test_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="125cedd6-f2db-4e09-ba12-c6a312a9ddcb" name="Changes" comment="" />
+      <created>1721502500473</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721502500473</updated>
+      <workItem from="1721502501700" duration="4444000" />
+      <workItem from="1721508951530" duration="1366000" />
+      <workItem from="1721551955241" duration="348000" />
+      <workItem from="1721573574202" duration="11809000" />
+      <workItem from="1721658971033" duration="114000" />
+      <workItem from="1725040020184" duration="1311000" />
+      <workItem from="1727075611016" duration="156000" />
+      <workItem from="1729402467667" duration="50000" />
+      <workItem from="1729402652579" duration="551000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Main/Main.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
